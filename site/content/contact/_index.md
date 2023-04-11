@@ -6,16 +6,11 @@ contact_entries:
     text: |-
       Siefertsweg 6
       64760 Oberzent
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Willkommen in unserer charmanten Ferienwohnung! Unsere Wohnung bietet alles, was Sie für einen komfortablen und angenehmen Aufenthalt benötigen. Die Wohnung verfügt über ein gemütliches Wohnzimmer, ein Schlafzimmer mit einem bequemen Bett und genügend Stauraum, eine voll ausgestattete Küche und ein modernes Badezimmer mit Dusche.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+
+Wir sind uns sicher, dass Sie sich in unserer Wohnung wie zu Hause fühlen werden und einen unvergesslichen Aufenthalt erleben werden. Wir freuen uns darauf, Sie bald bei uns begrüßen zu dürfen!
