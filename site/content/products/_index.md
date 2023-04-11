@@ -53,7 +53,7 @@ main:
     alt: Coffee beans
     image: img/img-20230410-wa0007.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: img/img-20230410-wa0009.jpg
 pricing:
   heading: " "
   description: " "
